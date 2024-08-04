@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @evanzelio, Software Engineer and Full-Stack Developer working on web, desktop apps, and legacy enterprise systems.
-- 👀 I’m interested in ... Backend Development, Object-Oriented Design, Enterprise Systems, Cybersecurity, Computer Graphics
-- 🌱 I’m currently learning ... Microservices, Design Patterns
+- 👋 Hi, I’m @evanzelio, Software Engineer and Full-Stack Developer working on desktop apps, web, and enterprise systems.
+- 👀 I’m interested in ... Computer Graphics, High-Performance Computing, Object-Oriented Design, Virtual Reality, Enterprise Systems, Backend Development, Cybersecurity
+- 🌱 I’m currently learning ... Software Architecture, Rendering, VR
 - 😄 Pronouns: ... he/him
 
 
